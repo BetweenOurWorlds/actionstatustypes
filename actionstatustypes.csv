@@ -1,0 +1,6 @@
+slug,label,alternativelabel,description
+Completed,completed,,The action has been completed.
+Current,current,,The action is currently happening.
+Stopped,stopped,dropped,"The action has not been completed, but stopped."
+OnHold,on hold,,The action has been put on hold.
+Planned,planned,,The action is planned.
