@@ -1,7 +1,7 @@
 # Action Status Types
 
 This repo contains Action Status Types (following [schema:ActionStatusTypes](http://schema.org/ActionStatusType))
-that can be used together with an [schema:WatchAction](http://schema.org/WatchAction) (or the more generic [schema:Action](http://schema.org/Action)).
+that can be used together with a [schema:WatchAction](http://schema.org/WatchAction) (or the more generic [schema:Action](http://schema.org/Action)).
 
 ## Files
 - `actionstatustypes.csv`: CSV file with the different types
