@@ -13,7 +13,7 @@
   ];
 
   rr:subjectMap [
-    rr:template "https://betweenourworlds.org/actionstatustype/{slug}";
+    rr:template "https://betweenourworlds.org/actionstatus/{slug}";
     rr:class schema:ActionStatusType, schema:Enumeration, schema:Intangible, schema:Thing
   ];
 
