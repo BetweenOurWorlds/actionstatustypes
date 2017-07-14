@@ -6,6 +6,8 @@
 @prefix dc:     <http://purl.org/dc/terms/> .
 @prefix dbo:    <http://dbpedia.org/ontology/>.
 
+@base <https://betweenourworlds.org/mapping/> .
+
 <#ActionStatusType>
   rml:logicalSource [
     rml:source "./actionstatustypes.csv";
